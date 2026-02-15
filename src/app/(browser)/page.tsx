@@ -112,16 +112,6 @@ const Page = () => {
                 Track Order
               </Link>
             </div>
-            <div className="mt-12">
-              <Link
-                href="https://www.g2a.co/contact/?itm_source=footer&itm_medium=&itm_campaign=footer-global"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-gray-800 hover:bg-gray-700 px-6 py-3 rounded-lg transition-colors"
-              >
-                Need our help? Contact us
-              </Link>
-            </div>
 
             {/* <div className="flex justify-center gap-6 mt-12">
               <button
